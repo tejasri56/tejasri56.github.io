@@ -16,8 +16,7 @@ Deploy a simple static website using GitHub Pages.
 4. Deployed website successfully.
 
 ## Live Website Link
-https://tejasri56.github.io/
+ https://tejasri56.github.io/
 
 ## GitHub Repository Link
-https://github.com/tejasri56/tejasri56.github.io
-
+https://github.com/tejasri56/tejasri56.github.io.git
